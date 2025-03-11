@@ -5,7 +5,7 @@
 
 🌱 Always learning
 
-"We are things that labor under the illusion of having a self, this accretion of sensory experience and feeling, programmed with total assurance that we are each somebody, when in fact, EVERYBODY IS [...]"
+"We are things that labor under the illusion of having a self, this accretion of sensory experience and feeling, programmed with total assurance that we are each somebody, when in fact, EVERYBODY IS NOBODY"
 
 <hr></hr>
 
@@ -36,10 +36,7 @@
 <!-- <img src="https://wakatime.com/share/@SouheilGandi/00fbd77f-ac04-4ba5-aebe-b75a9efc825a.svg" height="500px"/> -->
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SouheilGandi&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000"/>
-  <a href="https://github.com/SouheilGandi/SouheilGandi"><img alt="SouheilGandi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=SouheilGandi&bg_color=RRGGBBAA&color=84C2C0&line=E3E3E3&point=84C2C0&hide_border=true"/></a>
-  <img src="https://wakatime.com/share/@SouheilGandi/e713d501-852d-48fb-adb3-8e9f584cfdf4.svg">
-</div>
+
 
 <div align="center">
 <br>
