@@ -1,11 +1,12 @@
 <h1 align="center">Hi There 👋, I'm Souheil Gandi</h1>
 <h3 align="center">👀 I'm an IT Engineering Student, I live in Tunisia, and I'm currently learning to develop mobile applications.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SouheilGandi&label=Profile%20views&color=0e75b6&style=plastic" alt="SouheilGandi" /> </p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
+💌 Contact me : kandi.souheil@gmail.com
 
 🌱 Always learning
 
-"We are things that labor under the illusion of having a self, this accretion of sensory experience and feeling, programmed with total assurance that we are each somebody, when in fact, EVERYBODY IS NOBODY"
+💬 "We are things that labor under the illusion of having a self, this accretion of sensory experience and feeling, programmed with total assurance that we are each somebody, when in fact, EVERYBODY IS NOBODY"
 
 <hr></hr>
 
