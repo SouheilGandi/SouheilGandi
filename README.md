@@ -5,7 +5,7 @@
 
 🌱 Always learning
 
- "We are things that labor under the illusion of having a self, this accretion of sensory experience and feeling, programmed with total assurance that we are each somebody, when in fact, EVERYBODY IS NOBODY."*
+"We are things that labor under the illusion of having a self, this accretion of sensory experience and feeling, programmed with total assurance that we are each somebody, when in fact, EVERYBODY IS [...]"
 
 <hr></hr>
 
@@ -18,28 +18,28 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> </a>
   <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-  <a href="https://plantuml.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/plantuml/plantuml-icon.svg" alt="plantuml" width="40" height="40"/> </a>
+  <a href="https://plantuml.com/" target="_blank" rel="noreferrer"> <img src="https://www.plantuml.com/img/plantuml-icon.png" alt="plantuml" width="40" height="40"/> </a>
   <a href="https://swift.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
 </p>
 
 <hr></hr>
 
 <br/>
-  &nbsp;
-  <br/>
-  <summary align="center"><h2> <img alt="GIF" src="./Image//statistics.gif" width="25px"> Profile Statistics </h2></summary>
-  <div align="center">
-    <img height="192px" alt="SouheilGandi's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouheilGandi&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact"weight=41% height="192px"/>
-      <img height="192px" src="https://github-readme-stats.vercel.app/api?username=SouheilGandi&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true&custom_title=GitHub⠀Stats&show_icons=true"/>
-<!--       <img src="https://wakatime.com/share/@SouheilGandi/00fbd77f-ac04-4ba5-aebe-b75a9efc825a.svg" height="500px"/> -->
-  </div>
-  <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SouheilGandi&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000">
-  <a href="https://github.com/SouheilGandi/SouheilGandi"><img alt="SouheilGandi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=SouheilGandi&bg_color=RRGGBBAA&title_color=84C2C0&color=84C2C0&line=84C2C0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" /></a>
+&nbsp;
+<br/>
+<summary align="center"><h2> <img alt="GIF" src="./Image/statistics.gif" width="25px"> Profile Statistics </h2></summary>
+<div align="center">
+  <img height="192px" alt="SouheilGandi's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouheilGandi&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true"/>
+  <img height="192px" src="https://github-readme-stats.vercel.app/api?username=SouheilGandi&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true"/>
+<!-- <img src="https://wakatime.com/share/@SouheilGandi/00fbd77f-ac04-4ba5-aebe-b75a9efc825a.svg" height="500px"/> -->
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=SouheilGandi&layout=compact&theme=shadow_blue&hide=Other&title_color=84C2C0&bg_color=00000000&text_color=DEDEDE&border_color=00000000"/>
+  <a href="https://github.com/SouheilGandi/SouheilGandi"><img alt="SouheilGandi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=SouheilGandi&bg_color=RRGGBBAA&color=84C2C0&line=E3E3E3&point=84C2C0&hide_border=true"/></a>
   <img src="https://wakatime.com/share/@SouheilGandi/e713d501-852d-48fb-adb3-8e9f584cfdf4.svg">
-  </div>
+</div>
 
 <div align="center">
 <br>
@@ -50,7 +50,7 @@
 </details>
 <div align="center">
 <br>
-<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!;I'm+waiting for+you+again!;Have+a+good+day!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!" alt="Typing SVG"/></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=footer"/>
