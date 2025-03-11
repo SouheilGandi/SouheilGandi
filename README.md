@@ -48,7 +48,7 @@
 
 <br>
 <p align="centre"><b>🏆GitHub Trophies</b></p>  
-<p align="center"><img align="center" src="[https://github-profile-trophy.vercel.app/?username=SouheilGandi&theme=radical&no-frame=false&no-bg=false&margin-w=4]" /></p> 
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=SouheilGandi&theme=radical&no-frame=false&no-bg=false&margin-w=4" /></p> 
 </div>
 <br>
 
