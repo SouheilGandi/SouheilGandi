@@ -45,8 +45,14 @@
 <br>
 
 </details>
-## 🏆GitHub Trophies
-https://github-profile-trophy.vercel.app/?username=SouheilGandi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+<br>
+<p align="centre"><b>🏆GitHub Trophies</b></p>  
+<p align="center"><img align="center" src="[https://profile-counter.glitch.me/{SouheilGandi}/count.svg](https://github-profile-trophy.vercel.app/?username=SouheilGandi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+)" /></p> 
+</div>
+<br>
+
 <div align="center">
 <br>
 <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!" alt="Typing SVG"/></a>
