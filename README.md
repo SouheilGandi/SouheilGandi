@@ -1,5 +1,5 @@
 <h1 align="center">Hi There 👋, I'm Souheil Gandi</h1>
-<h3 align="center">👀 I'm an IT Engineering Student, I live in Tunisia, and I'm currently learning to develop mobile applications.</h3>
+<h3 align="center">👀 I'm a Software Engineering Student, I live in Tunisia, and I'm currently learning to develop mobile applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 💌 Contact me : kandi.souheil@gmail.com
