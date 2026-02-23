@@ -26,29 +26,6 @@
 <br/>
 &nbsp;
 <br/>
-<summary align="center"><h2> <img alt="GIF" src="./Image/statistics.gif" width="25px"> Profile Statistics </h2></summary>
-<div align="center">
-  <img height="192px" alt="SouheilGandi's Top Languages GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouheilGandi&theme=transparent&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true"/>
-  <img height="192px" src="https://github-readme-stats.vercel.app/api?username=SouheilGandi&theme=transparent&rank_icon=github&title_color=84C2C0&color=E3E3E3&text_color=DEDEDE&hide_border=true"/>
-<!-- <img src="https://wakatime.com/share/@SouheilGandi/00fbd77f-ac04-4ba5-aebe-b75a9efc825a.svg" height="500px"/> -->
-</div>
-<div align="center">
-
-
-<div align="center">
-<br>
-<p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{SouheilGandi}/count.svg" /></p> 
-</div>
-<br>
-
-</details>
-
-<br>
-<p align="centre"><b>🏆GitHub Trophies</b></p>  
-<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=SouheilGandi&theme=radical&no-frame=false&no-bg=false&margin-w=4" /></p> 
-</div>
-<br>
 
 <div align="center">
 <br>
